@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ 
+.Big-Box {
+  /* border: 3px solid rgb(190, 193, 29); */
+  display: flex;
+  justify-content: space-between;
+    flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.Box-1 {
+  /* border: 3px solid rgb(77, 24, 183); */
+  color: white;
+ }
+.Box-2 {
+  /* border: 3px solid rgb(188, 44, 44); */
+  display: flex;
+  flex-wrap: wrap;
+}
+.do-none li {
+  list-style-type: none;
+  margin-right: 20px;
+  padding: 10px;
+  color: #b2aebb8d;
+}
+.Box-2 h5 {
+  margin-left: 40px;
+  color: rgba(245, 222, 179, 0.358);
+}
+
+.Box-1 h3:nth-child(1) {
+  color: transparent;
+  -webkit-text-stroke: 2px #b2aebb;
+}
+ 
+
+/* --------------------- */
+.Rights{
+  /* border: 3px solid rgb(77, 24, 183); */
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+    margin-bottom: 50px;
+}
+.Policies{
+
+      /* border: 3px solid rgb(188, 44, 44); */
+      text-align: center;
+
+      
+
+}
+.Policies p{
+
+    padding-top: 20px;
+    padding-left: 10px;
+    color: #b2aebb8d;
+}
+.Media-Icons{
+
+      /* border: 3px solid rgb(190, 193, 29); */
+     
+padding: 15px;
+/* margin: 10px; */
+
+} 
+.Media-Icons .ok{
+
+    margin: 0px 30px;
+    font-size: 30px;
+    color: #b2aebb8d;
+ }
+ 
+    
+ 
+    
+ 
